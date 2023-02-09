@@ -41,3 +41,7 @@
 	font-size: 25px;
     aspect-ratio: 1;
 }
+
+.active {
+    display: block;
+}
